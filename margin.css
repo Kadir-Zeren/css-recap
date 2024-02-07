@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+}
+.container {
+  background-color: bisque;
+  margin: 50px;
+  margin: 10px 30px;
+  margin: 10px 20px 30px 40px;
+  text-align: center;
+  padding: 10px;
+}
+.div {
+  background-color: blueviolet;
+  width: 100px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  margin: 20px auto;
+}
