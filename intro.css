@@ -9,6 +9,13 @@
   color: #eee;
   color: #000;
 }
-.images{
-    width: 400px;
+.images {
+  width: 400px;
+
+  border-color: #ece;
+  border-width: 6px;
+  border-style: solid;
+  border-style: inset;
+
+  border: 7px inset #bebe;
 }
